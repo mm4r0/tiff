@@ -1,0 +1,15 @@
+img {
+      width: 270px;    
+}
+
+h1 {
+    font-family: 'Libre Barcode 39 Text', cursive;
+    font-size: 80px;
+}
+
+body {
+    background-color: #71a4f7;
+}
+ul {
+    font-family:  'Roboto Condensed', sans-serif;
+}
